@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     // 여기에 코드를 작성해주세요.
     int dx[4]={0,1,0,-1};
-    int dy[4]={-1,0,1,0};
+    int dy[4]={1,0,-1,0};
     int x=0,y=0,dir = 0;
 
     string s;
